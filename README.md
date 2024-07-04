@@ -1,3 +1,4 @@
+![logo](https://github.com/Shrutirekha001/Shrutirekha001/blob/main/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Shrutirekha Das</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400"src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif">
